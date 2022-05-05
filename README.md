@@ -5,7 +5,9 @@
 ### 📈 GitHub stats
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOMOKUL&show_icons=true&theme=gruvbox)
 
+<!--START_SECTION:waka-->
 [![Nikita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Domokul)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOMOKUL&layout=compact&show_icons=true&theme=gruvbox)
 
