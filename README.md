@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           1 hr 42 mins    ███████████████████████░░   91.92 %
-YAML             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Batchfile        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
