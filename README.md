@@ -20,6 +20,8 @@ YAML     6 mins          ▒░░░░░░░░░░░░░░░░░�
 
 ## 🎨 Current project
 
+https://github.com/Dankosik/yahoo-stock-api
+
 ## 👍 You can contact me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/strokach-nikita-810b50230/)
