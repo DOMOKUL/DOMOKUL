@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML       24 mins         █████████████░░░░░░░░░░░░   51.63 %
-textmate   22 mins         ████████████░░░░░░░░░░░░░   48.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
